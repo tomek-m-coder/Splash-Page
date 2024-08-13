@@ -55,3 +55,15 @@ body {
   width: 138.44px;
   height: 46.28px;
 }
+.google-play-btn {
+  position: absolute;
+  width: 156.19px;
+  height: 46.28px;
+  left: 381.81px;
+  top: 531px;
+}
+
+.google-play-btn img {
+  width: 156.19px;
+  height: 46.28px;
+}

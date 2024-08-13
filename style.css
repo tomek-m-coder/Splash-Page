@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 
-
-html {
+* {
   box-sizing: border-box;
+  font-family: 'Lato', Arial, Helvetica, sans-serif;
 }
 
 body {
   margin: 0;
+  color: #54575a;
+  background: linear-gradient(
+    180deg,
+    #ffffff 0%,
+    #f3f8f7 49.91%,
+    #fff9f5 94.19%
+  );
 }
